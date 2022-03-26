@@ -36,12 +36,11 @@ We had to define our CI/CD migrating from Travis to GH actions and defining as a
 
 ### **Lead Solutions Architect** @ [Capitole Consulting](https://www.linkedin.com/company/capitole-consulting/) _(Jan 2020 - Aug 2020)_ <br>
 
-Working as solution Architect at Capitole Consulting.
-Analyzing requirements and defining main architecture for projects made in house for external customers. Including definitions of language, frameworks and code flows.
+I worked as a Solution Architect at Capitole Consulting. My role and responsibilities were to analyze requirements and define the primary architecture for projects made in-house for external customers, including definitions of language, frameworks, and code flow.
 
-Also working as a consultant for a sass company. In this case, my role is Tech Lead Engineer, where I had to define the main architecture for internal audit tools.
+I was also working as a consultant for a sass company. In this case, my role was Tech Lead Engineer, where I had to define the central architecture for internal audit tools.
 
-On most of the cases I use Python within Django as main framework
+In most of cases I use Python within Django as the main framework
 <br><br>
 
 ### **Music Business Unit Architect | Team Lead** @ [Eventbrite](https://www.linkedin.com/company/eventbrite/) _(Apr 2019 - Oct 2019)_ <br>
