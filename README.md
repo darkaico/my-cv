@@ -4,6 +4,15 @@ _Software Engineer based in Barcelona, Spain_ <br>
 
 [Email](mailto:darkaico@gmail.com) / [Website](https://workwithcarolyn.com/) / [LinkedIn](https://www.linkedin.com/in/arielparra/) / [GitHub](https://github.com/darkaico/) / [Twitter](https://twitter.com/darkaico/)
 
+## Summary
+
+Im a dedicated and passionate Engineering Manager with a strong experience in backend development, system designs and architectural solutions.
+
+Adept at using interpersonal abilities and communication skills to encourage and guide team members to design, develop and implement innovative engineering products.
+
+A self-motivated leader with a sound record of solution-based critical thinking and positive results.
+<br><br>
+
 ## 👨‍💻 Technical Experience
 
 ### **Engineering Manager** @ [Typeform](https://www.linkedin.com/company/typeform-/) _(Dec 2021 - Present)_ <br>
@@ -44,18 +53,18 @@ Some of my responsibilities were to:
 
 I worked as a Solution Architect at Capitole Consulting. My role and responsibilities were to analyze requirements and define the primary architecture for projects made in-house for external customers, including definitions of language, frameworks, and code flow.
 
-I was also working as a consultant for a sass company. In this case, my role was Tech Lead Engineer, where I had to define the central architecture for internal finance audit tools.
+I was also working as a consultant for a sass company. In this case, my role was Tech Lead Engineer, where I had to define the central architecture for internal finance audit tools while I was also managing two individual contributors.
 
 In most cases, I used Python within Django as the main framework.
 <br><br>
 
 ### **Music Business Unit Architect | Team Lead** @ [Eventbrite](https://www.linkedin.com/company/eventbrite/) _(Apr 2019 - Oct 2019)_ <br>
 
-Leading the team working on functionality needs from prominent music organizers.
+Leading the team working on functionality needs from big music organizers.
 
-I was the contact point with other business units to coordinate the work and establish architectural designs.
+As an architect I was the contact point between other business units in order to coordinate the work, discuss common solution designs and set expectations and priorities.
 
-During this time, I also had the role of Engineer Manager of one of the Business Unit teams in Mendoza. I managed four individual contributors and focused on people's growth by working closely on technical mentorship.
+During this time I also have a role as Engineer Manager of one of the teams of music in Mendoza. It was focusing on people's growth but also working closely on technical mentorship.
 <br><br>
 
 ### **Senior Software Engineer II** @ [Eventbrite](https://www.linkedin.com/company/eventbrite/) _(Apr 2017 - Apr 2019)_ <br>
@@ -157,9 +166,9 @@ We used an in-house framework, which included the following use cases:
 
 ### **Java Developer** @ [Sitrack.com](https://www.linkedin.com/company/sitrack.com/) _(May 2009 - Aug 2010)_ <br>
 
-I worked as a Java software engineer. My role there was to analyze, design, and implement solutions for the new version of the app:
-This new architecture had to provide support for high data access performance.
-We developed an in-house framework based on the MVC pattern theory, extending this concept to the upcoming (at that time) REST theory
+Sitrack.com it s a company specialized in the monitoring and control of objects / mobiles or fixed entities through any global communication network linked to the internet (Wired / Wireless), we provided comprehensive services in control, optimization, logistic and location using different technologies (Satellite, GPS),to determine the exact position and condition of all types of capital.
+
+During this time I worked as a Java software engineer. My role there was to analyze, design, and implement solutions for the new version of the app: This new architecture had to provide support for high data access performance. We developed an in-house framework based on the MVC pattern theory, extending this concept to the upcoming (at that time) REST theory
 
 **_Technologies_**:
 
@@ -180,9 +189,9 @@ Some of the projects I worked on:
 
 ## 📌 Complementary
 
-### **University Teacher** @ [UTN - Facultad Regional Mendoza](https://utn.edu.ar/es/) _(Aug 2018 - Nov 2019)_<br>
+### **University Professor** @ [UTN - Facultad Regional Mendoza](https://utn.edu.ar/es/) _(Aug 2018 - Nov 2019)_<br>
 
-Practical applications teacher of the the subject "Arquitectura de Microservicios".
+Practical applications professor of the the subject "Arquitectura de Microservicios".
 
 - Microservices theory applicated to a practical example
 - Definition of services using different languages
