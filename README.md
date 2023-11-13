@@ -15,7 +15,19 @@ A self-motivated leader with a sound record of solution-based critical thinking 
 
 ## 👨‍💻 Technical Experience
 
-### **Engineering Manager** @ [Typeform](https://www.linkedin.com/company/typeform-/) _(Dec 2021 - Present)_ <br>
+### **Engineering Manager** @ [Wallapop](https://www.linkedin.com/company/wallapop/) _(April 2023 - Present)_ <br>
+
+Engineer Manager of the payments and checkout team.
+
+I managed a cross functional team: iOS, Android, Web, Backend and QA, from Mid-Senior to Staff Engineers, helping them with their development careers.
+
+I collaborated with Product Managers and Product Designers, defining and distributing tasks, organizing our ways of working in favor of the team productivity.
+
+Additionally, I manage the technical contact point with our payments providers along with the technical and SLA definitions.
+
+<br><br>
+
+### **Engineering Manager** @ [Typeform](https://www.linkedin.com/company/typeform-/) _(Dec 2021 - January 2023)_ <br>
 
 Engineer Manager of a newly Typeform initiative in charge of the experimentation, verification, and development of new products that will enhance the Typeform ecosystem.
 
@@ -28,17 +40,21 @@ Additionally, I participated in technical discussions and architectural proposal
 
 ### **Engineering Team Lead** @ [VideoAsk](https://www.linkedin.com/company/videoask/) _(Aug 2020 - Dec 2021)_ <br>
 
-I was working as a Team Lead in VideoAsk, aka what we called "startup inside a startup" by Typeform.
-Responsible for building the team culture, structuring and defining best practices, and setting the bases to align our engineering culture with the work in Typeform.com.
+I joined VideoAsk (aka what we call "startup inside a startup") first as a Team Lead and switched entirely to being Engineering Manager.
 
-Worked closely with the product managers helping them with tasks analysis/distribution, also helping on switching between different tools (from notion to Jira for instance).
+I was responsible for structuring the engineering team working along with the PM, designer, business analyst, and customer experience team.
 
-Some of my responsibilities were to:
+Part of my technical responsibility was helping with the definition of best practices, system designs discussions/organization, and setting the bases to align our engineering culture with the work in Typeform.com.
 
+Worked closely with the product managers helping them with tasks analysis/distribution and also helping on switching between different tools (from notion to Jira, for instance).
+
+In a nutshell, some of my responsibilities were to:
+
+- Coaching and mentorship the team, helping them with career development.
 - Growth of the team, identifying needed roles, and doing tech and behavioral interviews.
 - Develop features end to end, primarily for big enterprise customers.
-- Technical mentorship, mainly in the backend part of the app
-- Organize and lead significant initiatives that include radical changes in our app, for instance: updates on the CI/CD, moving our FE server side from Vercel into our AWS setup
+- Technical mentorship, especially in backend and infrastructure (python / Django / AWS)
+- Organize and lead significant initiatives that include radical changes in our app, for instance: updates on the CI/CD, and moving our FE server side from Vercel into our AWS setup.
 
 **_Technologies_**
 
