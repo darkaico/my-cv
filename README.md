@@ -6,11 +6,11 @@ _Software Engineer based in Barcelona, Spain_ <br>
 
 ## Summary
 
-Im a dedicated and passionate Engineering Manager with a strong experience in backend development, system designs and architectural solutions.
+With over 16 years of rich experience in the software industry, I have had the privilege to wear multiple hats, ranging from a Backend Engineer to an Engineering Manager, across a spectrum of industries and companies of varied scales. My journey began with foundational software development and consultancy roles, which equipped me with a deep technical understanding and a problem-solving mindset. Over time, I transitioned into leadership roles where I spearheaded diverse teams, mentored budding engineers, and took charge of product-centric initiatives that profoundly impacted business outcomes.
 
-Adept at using interpersonal abilities and communication skills to encourage and guide team members to design, develop and implement innovative engineering products.
+Having played pivotal roles at companies like Eventbrite and Typeform, I've consistently led product evolution by steering teams to integrate transformative features and setting forth architectural blueprints seamlessly. Now, as the Engineering Manager at Wallapop, I spearhead the Payments and Checkout Team, ensuring our flows deliver top-notch user experiences and are critical to the success of our payment and checkout processes.
 
-A self-motivated leader with a sound record of solution-based critical thinking and positive results.
+As I continue my journey, I am deeply committed to the Engineering Manager path, where my passion lies in harnessing the synergy of tech and people to drive impactful results. I aim to foster environments where innovation thrives and engineers are empowered to push boundaries.
 <br><br>
 
 ## 👨‍💻 Technical Experience
