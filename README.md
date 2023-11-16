@@ -2,7 +2,7 @@
 
 _Software Engineer based in Barcelona, Spain_ <br>
 
-[Email](mailto:darkaico@gmail.com) / [Website](https://workwithcarolyn.com/) / [LinkedIn](https://www.linkedin.com/in/arielparra/) / [GitHub](https://github.com/darkaico/) / [Twitter](https://twitter.com/darkaico/)
+[Email](mailto:darkaico@gmail.com) / [LinkedIn](https://www.linkedin.com/in/arielparra/) / [GitHub](https://github.com/darkaico/) / [Twitter](https://twitter.com/darkaico/)
 
 ## Summary
 
