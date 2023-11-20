@@ -74,16 +74,23 @@ I was also working as a consultant for a sass company. In this case, my role was
 In most cases, I used Python within Django as the main framework.
 <br><br>
 
-### **Music Business Unit Architect | Team Lead** @ [Eventbrite](https://www.linkedin.com/company/eventbrite/) _(Apr 2019 - Oct 2019)_ <br>
+### **Staff Software Engineer | Engineering Manager** @ [Eventbrite](https://www.linkedin.com/company/eventbrite/) _(Oct 2014 - Oct 2019)_ <br>
+
+I joined Eventbrite in October 2014 as a software engineer, integrating functionalities from the acquired company Eventioz. From December 2015 to April 2017, I evolved into a senior software engineer, leading a dedicated music vertical team focusing on key features like guestlist functionality and reporting tools.
+
+I progressed further as a senior software engineer II from April 2017 to April 2019, spearheading the adaptation of tools after the Ticketfly acquisition. I contributed to significant projects, including the artist service integration and listing events from other ticketing companies.
+
+The last part of my experience at Eventbrite, found me as the Music Business Unit Architect and Team Lead from April 2019 to October 2019. I led a team addressing the functionality needs of major music organizers. Simultaneously, I acted as an Engineering Manager for a Mendoza-based team, focusing on personal growth and technical mentorship.
+
+#### **Music Business Unit Architect | Team Lead** @ [Eventbrite](https://www.linkedin.com/company/eventbrite/) _(Apr 2019 - Oct 2019)_ <br>
 
 Leading the team working on functionality needs from big music organizers.
 
 As an architect I was the contact point between other business units in order to coordinate the work, discuss common solution designs and set expectations and priorities.
 
 During this time I also have a role as Engineer Manager of one of the teams of music in Mendoza. It was focusing on people's growth but also working closely on technical mentorship.
-<br><br>
 
-### **Senior Software Engineer II** @ [Eventbrite](https://www.linkedin.com/company/eventbrite/) _(Apr 2017 - Apr 2019)_ <br>
+#### **Senior Software Engineer II** @ [Eventbrite](https://www.linkedin.com/company/eventbrite/) _(Apr 2017 - Apr 2019)_ <br>
 
 With Eventbrite's acquisition of Ticketfly, our team was in charge of adapting existing and required tools from Ticketfly organizers into Eventbrite.
 
@@ -94,7 +101,7 @@ As significant points in this position, I worked on the following essential proj
 - Artist Service implementation: this was the main point to integrate external music partners to sell tickets through their funnels (like Spotify, Youtube, and Instagram)
 - External Events: including the ability to list events that belongs to other ticketing companies in order to improve our customer funnel attraction
 
-### **Senior Software Engineer** @ [Eventbrite](https://www.linkedin.com/company/eventbrite/) _(Dec 2015 - Apr 2017)_ <br>
+#### **Senior Software Engineer** @ [Eventbrite](https://www.linkedin.com/company/eventbrite/) _(Dec 2015 - Apr 2017)_ <br>
 
 I have worked as a senior engineer in the first team entirely in charge of a vertical, in this case, Music.
 We have implemented key features for those industry organizers worth it to mention:
@@ -102,7 +109,7 @@ We have implemented key features for those industry organizers worth it to menti
 - Guestlist functionality: this updated a core part of the product and allowed us to catch organizers of medium size events like Theaters, Nightclubs.
 - Developed reporting tools for organizers, also enhancing existing ones which power up all our features in that segment
 
-### **Software Engineer** @ [Eventbrite](https://www.linkedin.com/company/eventbrite/) _(Oct 2014 - Dec 2015)_ <br>
+#### **Software Engineer** @ [Eventbrite](https://www.linkedin.com/company/eventbrite/) _(Oct 2014 - Dec 2015)_ <br>
 
 I started working as a Software Engineer, integrating functionalities from a recently acquired local company (Eventioz) into the Eventbrite ecosystem.
 
@@ -118,7 +125,8 @@ Once we finished this part, we moved to work directly on the Eventbrite applicat
 - Cassandra
   <br><br>
 
-**Tech Lead** @ [Belatrix SF](https://www.linkedin.com/company/belatrix-software/) _(May 2013 - Sep 2014)_ <br>
+### **Tech Lead** @ [Belatrix SF](https://www.linkedin.com/company/belatrix-software/) _(May 2013 - Sep 2014)_ <br>
+
 Worked as a consultant software engineer for a US company that provides mobile apps to an online bank.
 
 The project was part of the R&D department of the company, and we used the Titanium Mobile framework and an API with Java.
@@ -193,7 +201,7 @@ During this time I worked as a Java software engineer. My role there was to anal
 - Git
   <br><br>
 
-### **Software Developer** @ [Belatrix Software Factory](https://www.linkedin.com/company/belatrix-software/) _(Apr 2017 - Apr 2009)_ <br>
+### **Software Developer** @ [Belatrix Software Factory](https://www.linkedin.com/company/belatrix-software/) _(Apr 2007 - Apr 2009)_ <br>
 
 I was working as a consultant for different clients located in the US.
 Some of the projects I worked on:
