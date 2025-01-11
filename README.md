@@ -6,14 +6,12 @@ _Software Engineer based in Barcelona, Spain_ <br>
 
 ## Summary
 
-With over 16 years of rich experience in the software industry, I have had the privilege to wear multiple hats, ranging from a Backend Engineer to an Engineering Manager, across a spectrum of industries and companies of varied scales. My journey began with foundational software development and consultancy roles, which equipped me with a deep technical understanding and a problem-solving mindset. Over time, I transitioned into leadership roles where I spearheaded diverse teams, mentored budding engineers, and took charge of product-centric initiatives that profoundly impacted business outcomes.
+With nearly 20 years in software engineering, I've grown from Backend Engineer to Engineering Manager at top companies like Eventbrite, Typeform, and, more recently, Wallapop.
+My journey has involved solving complex problems, building strong technical skills, and leading teams to deliver impactful projects. As the Engineering Manager for Wallapop's Payments and Checkout team, I optimize user experiences and payment processes and foster an innovative environment where engineers thrive. I'm passionate about leveraging technology and collaboration to achieve meaningful results.]
 
-Having played pivotal roles at companies like Eventbrite and Typeform, I've consistently led product evolution by steering teams to integrate transformative features and setting forth architectural blueprints seamlessly. Now, as the Engineering Manager at Wallapop, I spearhead the Payments and Checkout Team, ensuring our flows deliver top-notch user experiences and are critical to the success of our payment and checkout processes.
-
-As I continue my journey, I am deeply committed to the Engineering Manager path, where my passion lies in harnessing the synergy of tech and people to drive impactful results. I aim to foster environments where innovation thrives and engineers are empowered to push boundaries.
 <br><br>
 
-## 👨‍💻 Technical Experience
+## Technical Experience
 
 ### **Engineering Manager** @ [Wallapop](https://www.linkedin.com/company/wallapop/) _(April 2023 - Present)_ <br>
 
@@ -211,7 +209,7 @@ Some of the projects I worked on:
 - Design and development of Content Management Software that manages a considerable quantity of users
   <br><br>
 
-## 📌 Complementary
+## Complementary
 
 ### **University Professor** @ [UTN - Facultad Regional Mendoza](https://utn.edu.ar/es/) _(Aug 2018 - Nov 2019)_<br>
 
@@ -230,16 +228,16 @@ University Researcher, working in 2 groups:
 - PSP Software application: implementation of a software using PSP methodology in order to track the lifecycle of a software project
   <br><br>
 
-## 💬 Languages
+## Languages
 
 **Spanish**: Native <br>
 **English**: Fluent
 <br><br>
 
-## 👩🏼‍🎓 Education
+## Education
 
 **Computer Science Engineer** <br>
-[Universidad Tecnológica Nacinoal](https://utn.edu.ar/es/) - Mendoza, Argentina _(2002 - 2010)_ <br>
+[Universidad Tecnológica Nacional](https://utn.edu.ar/es/) - Mendoza, Argentina _(2002 - 2010)_ <br>
 
 **University Analist (intermediate degree)** <br>
-[Universidad Tecnológica Nacinoal](https://utn.edu.ar/es/) - Mendoza, Argentina _(2002 - 2008)_ <br>
+[Universidad Tecnológica Nacional](https://utn.edu.ar/es/) - Mendoza, Argentina _(2002 - 2008)_ <br>
